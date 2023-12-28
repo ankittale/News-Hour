@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The News Hours</string>
+    <string name="lbl_breaking_news">Breaking News</string>
+    <string name="lbl_saved_news">Saved News</string>
+    <string name="lbl_search_news">Search News</string>
+    <string name="lbl_search">Search</string>
+</resources>

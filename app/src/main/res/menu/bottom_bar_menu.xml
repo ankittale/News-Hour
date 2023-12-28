@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/ic_news"
+        android:id="@+id/breakingNewsFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/lbl_breaking_news" />
+    <item
+        android:icon="@drawable/ic_saved"
+        android:id="@+id/savedNewsFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/lbl_saved_news" />
+    <item
+        android:icon="@drawable/ic_search"
+        android:id="@+id/searchNewsFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="@string/lbl_search_news" />
+</menu>
